@@ -99,3 +99,20 @@ fun Component() {
 }
 ```
 
+### Install
+
+The main way of installing this library is
+using `jitpack.io`
+
+```kts
+repositories {
+    // ...
+    mavenCentral()
+    maven { url = uri("https://jitpack.io") }
+}
+
+dependencies {
+    // Replace TAG with the desired version
+    implementation("net.lsafer.compose-table:compose-table:TAG")
+}
+```
