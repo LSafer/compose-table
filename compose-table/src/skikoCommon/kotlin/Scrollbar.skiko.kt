@@ -1,4 +1,4 @@
-package net.lsafer.sundry.compose.table
+package net.lsafer.compose.table
 
 import androidx.compose.foundation.HorizontalScrollbar
 import androidx.compose.foundation.ScrollState
