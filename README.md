@@ -1,4 +1,4 @@
-### Compose Table
+### Compose Table [![](https://jitpack.io/v/net.lsafer/compose-table.svg)](https://jitpack.io/#net.lsafer/compose-table)
 
 Create from scratch, a material3 data table for compose multiplatform.
 Uses a declarative approach for defining table components (It is like HTML).
